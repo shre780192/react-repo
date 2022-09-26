@@ -1,9 +1,11 @@
 import React from 'react';
-import Tabs from "./Components/Tabs";
+import Dashboard from './Components/Dashboard';
+import SignIn from "./Components/SignIn";
+
 function App() {
   return (
     <div className="App">
-       <Tabs />
+       <SignIn />
     </div>
   );
 }
