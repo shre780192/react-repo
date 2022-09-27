@@ -3,12 +3,7 @@ import Dashboard from '../Dashboard'
 import App from '../../App'
 import AuthContext from '../../context/AuthProvider'
 
-// const customRender = (ui, {providerProps, ...renderOptions}) => {
-//   return render(
-//     <AuthContext.Provider {...providerProps}>{ui}</AuthContext.Provider>,
-//     renderOptions,
-//   )
-// }
+
 test('renders dashboard', () => {
   const providerProps = {
     username: 'John',

@@ -1,8 +1,8 @@
 {
     "users": [
       {
-        "username": "J",
-        "password": "p1"
+        "username": "John Doe",
+        "password": "password1"
       },
       {
         "username": "Jane Doe",
