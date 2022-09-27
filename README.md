@@ -11,4 +11,4 @@ Run the command
 
 to have the server up at url
 
-# http://localhost:<port>/users
+# http://localhost:port/users
